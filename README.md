@@ -1,6 +1,6 @@
 Dev Meet Up App
 
-this is going to be the proof of whether or not the husky hook works.
+hello
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
